@@ -1,12 +1,12 @@
 {
     "movies": [
-        { "id": "civilwar" },
-        { "id": "harry" },
-        { "id": "johnwick" },
-        { "id": "matrix" },
-        { "id": "thor" }
+        { "id": "Civilwar" },
+        { "id": "Harry" },
+        { "id": "Johnwick" },
+        { "id": "Matrix" },
+        { "id": "Thor" }
     ],
-    "civilwar": [
+    "Civilwar": [
         { "id": "A1", "seated": true, "price": 120 },
         { "id": "A2", "seated": false, "price": 120 },
         { "id": "A3", "seated": false, "price": 120 },
@@ -16,7 +16,7 @@
         { "id": "B1", "seated": true, "price": 200 },
         { "id": "B2", "seated": false, "price": 200 }
     ],
-    "harry": [
+    "Harry": [
         { "id": "A1", "seated": true, "price": 120 },
         { "id": "A2", "seated": false, "price": 120 },
         { "id": "A3", "seated": false, "price": 120 },
@@ -26,7 +26,7 @@
         { "id": "B1", "seated": true, "price": 200 },
         { "id": "B2", "seated": false, "price": 200 }
     ],
-    "johnwick": [
+    "Johnwick": [
         { "id": "A1", "seated": true, "price": 120 },
         { "id": "A2", "seated": false, "price": 120 },
         { "id": "A3", "seated": false, "price": 120 },
@@ -36,7 +36,7 @@
         { "id": "B1", "seated": true, "price": 200 },
         { "id": "B2", "seated": false, "price": 200 }
     ],
-    "matrix": [
+    "Matrix": [
         { "id": "A1", "seated": true, "price": 120 },
         { "id": "A2", "seated": false, "price": 120 },
         { "id": "A3", "seated": false, "price": 120 },
@@ -46,7 +46,7 @@
         { "id": "B1", "seated": true, "price": 200 },
         { "id": "B2", "seated": false, "price": 200 }
     ],
-    "thor": [
+    "Thor": [
         { "id": "A1", "seated": true, "price": 120 },
         { "id": "A2", "seated": false, "price": 120 },
         { "id": "A3", "seated": false, "price": 120 },
